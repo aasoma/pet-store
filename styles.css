@@ -1,0 +1,38 @@
+body{
+	background-color: turquoise;
+	
+}
+
+#all-pets{	
+background-color: white;
+text-align: center;
+}
+
+.individual-pet{
+	border-style: solid;
+	border-width: 1px;
+
+}
+img{
+	width: 100px;
+	height: 100px;
+}
+p{
+	color: lightgreen
+}
+
+h2{
+	color: green
+}
+p{
+	font-size: 20px;
+	font-family: "comic sans MS";
+}
+
+h2{
+	font-family: "comic sans MS";
+}
+
+h1{
+	font-family: "comic sans MS";
+}
